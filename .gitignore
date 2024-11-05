@@ -163,3 +163,7 @@ cython_debug/
 
 # AWS SSL certificates
 /certs
+
+/node_modules/
+/package-lock.json
+/package.json
